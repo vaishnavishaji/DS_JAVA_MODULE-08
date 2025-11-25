@@ -82,8 +82,8 @@ To write a Java program that adds elements from an array into a TreeSet and disp
 ```
 /*
 Program that adds elements from an array into a TreeSet and displays the elements in sorted order.
-Developed by: Aishwarya V
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 */
 import java.util.*;
 
@@ -149,8 +149,8 @@ To write a Java program that fills the first 10 elements of an array with a cons
 ```
 /*
 Program to FILL the first 10 elements of an array with a constant value using the Arrays.fill() method.
-Developed by: Aishwarya V
-RegisterNumber:  212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber:  212223220119
 */
 import java.util.Arrays;
 
@@ -201,8 +201,8 @@ To implement a program that tracks the first unique (non-repeating) number in a 
 ```
 /*
 Program to tracks the first unique (non-repeating) number in a stream of integers using a LinkedHashMap.
-Developed by: Aishwarya V 
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 */
 import java.util.*;
 
@@ -275,8 +275,8 @@ To write a Java program that checks whether a given value exists in a TreeMap.
 ```
 /*
 Program to checks whether a given value exists in a TreeMap.
-Developed by: Aishwarya V
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 */
 import java.util.*;
 
